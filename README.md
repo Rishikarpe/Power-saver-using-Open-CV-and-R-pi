@@ -4,9 +4,13 @@
 Prerequisites:
 
 Open CV
+
 numpy
+
 RPi.GPIO
 
 yolov4.weights  https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights
+
 yolov4.cfg      https://github.com/AlexeyAB/darknet/blob/master/cfg/yolov4.cfg
+
 Both yolo files should be in same folder with your code.
